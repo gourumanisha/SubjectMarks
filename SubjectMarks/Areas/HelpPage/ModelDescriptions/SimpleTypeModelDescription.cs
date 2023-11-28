@@ -1,0 +1,6 @@
+namespace SubjectMarks.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
